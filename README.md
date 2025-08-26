@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 
 <p align="justify"> 
-A software developer with 7 years of hands-on experience in creating scalable and efficient solutions. I’m always eager to stay at the forefront of technology and am constantly seeking opportunities where I can make a meaningful impact and continue to grow professionally.
+A software developer with 8 years of hands-on experience in creating scalable and efficient solutions. I’m always eager to stay at the forefront of technology and am constantly seeking opportunities where I can make a meaningful impact and continue to grow professionally.
 </p>
 
 - 🌱 I’m currently learning ...
